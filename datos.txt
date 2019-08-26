@@ -1,0 +1,28 @@
+subdominio. MQAK
+contraseña: mqak1234
+
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+ottos_24361364
+Control panel password	**********
+Control panel URL
+cpanel.tonohost.com
+MySQL username
+ottos_24361364
+MySQL password
+**********
+MySQL hostname
+sql109.tonohost.com
+FTP username
+ottos_24361364
+FTP password
+**********
+FTP host name	ftp.tonohost.com
+
+
+Your Website URL's
+Home page
+http://mqak.tonohost.com
